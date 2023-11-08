@@ -4,4 +4,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgh3103@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?J-Yeah=anuraghazra&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernae=J-Yeah&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,4 +6,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Yeah&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgh3103)](https://solved.ac/wlgh3103)
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlgh3103)](https://solved.ac/wlgh3103)
